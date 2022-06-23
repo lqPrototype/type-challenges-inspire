@@ -1,7 +1,6 @@
 # type-challenges-answer
 
-> Continuous learning and collection type declaration  https://github.com/type-challenges/type-challenges
-
+> Continuous learning and collection type declaration https://github.com/type-challenges/type-challenges
 
 # 目录：
 
@@ -34,4 +33,3 @@
 27. TupleToObject
 28. TupleToUnion
 29. Unshift
-
